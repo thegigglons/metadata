@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #846",
+  "description": "",
+  "image": "https://arweave.net/94pz6hotty7qha91xl16op",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/846.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ninja"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Ninja Balaclava"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/846.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1138",
+  "description": "",
+  "image": "https://arweave.net/944x5lt88nsxgcksavx9z",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1138.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1138.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

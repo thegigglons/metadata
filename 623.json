@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #623",
+  "description": "",
+  "image": "https://arweave.net/gz04naw8hut0pvj7f2dv",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/623.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Pijama"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/623.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1270",
+  "description": "",
+  "image": "https://arweave.net/qpcccjk0jir5wbh62rbslu",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1270.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Pink"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1270.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

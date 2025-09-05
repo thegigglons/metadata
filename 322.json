@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #322",
+  "description": "",
+  "image": "https://arweave.net/8kwb9u16wmxb1pqzr2g899",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/322.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chess"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/322.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

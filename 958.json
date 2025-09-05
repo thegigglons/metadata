@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #958",
+  "description": "",
+  "image": "https://arweave.net/1lmk86u8fdv5bxp3e5twt5",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/958.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Farmer"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/958.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

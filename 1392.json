@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1392",
+  "description": "",
+  "image": "https://arweave.net/h3dq05325rrs21d6k26jy9",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1392.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Guitarrist"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1392.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

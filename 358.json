@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #358",
+  "description": "",
+  "image": "https://arweave.net/0x49e5z1r3gfberujae63m",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/358.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Pink"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/358.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

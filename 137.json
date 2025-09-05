@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #137",
+  "description": "",
+  "image": "https://arweave.net/z064viry8e9bw5kcsmyn85",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/137.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sports"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/137.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

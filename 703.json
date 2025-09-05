@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #703",
+  "description": "",
+  "image": "https://arweave.net/bguv8lx0h36ra783qzl9ve",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/703.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/703.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

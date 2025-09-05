@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #118",
+  "description": "",
+  "image": "https://arweave.net/top9dtss10b8y77oym37h4",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/118.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/118.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

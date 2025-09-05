@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #197",
+  "description": "",
+  "image": "https://arweave.net/kypffz72m0rb7etf488ix",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/197.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/197.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

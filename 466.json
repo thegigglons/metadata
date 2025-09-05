@@ -1,0 +1,22 @@
+{
+  "name": "Gigglon #466",
+  "description": "",
+  "image": "https://arweave.net/q8zytqv1a1rixte07hio5",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/466.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Party"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/466.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

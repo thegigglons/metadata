@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #108",
+  "description": "",
+  "image": "https://arweave.net/1afu3s6tl9bio7hljow423a",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/108.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Drippy"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Explorer Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/108.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #235",
+  "description": "",
+  "image": "https://arweave.net/970h6beuk9a9hkd4a8oym5",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/235.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Pijama"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/235.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

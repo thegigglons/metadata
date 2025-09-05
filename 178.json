@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #178",
+  "description": "",
+  "image": "https://arweave.net/50vhhk12znrdazjx6xsqn",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/178.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Farmer"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/178.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

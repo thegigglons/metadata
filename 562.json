@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #562",
+  "description": "",
+  "image": "https://arweave.net/k9pl7g9mh2k6hq7s2kj9hh",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/562.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Snowland"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Party"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/562.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

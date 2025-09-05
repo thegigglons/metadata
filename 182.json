@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #182",
+  "description": "",
+  "image": "https://arweave.net/l3yqeq4tcas4d8fulcy92q",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/182.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chess"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/182.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

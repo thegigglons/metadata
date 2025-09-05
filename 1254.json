@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1254",
+  "description": "",
+  "image": "https://arweave.net/u7hckpcl6wp1opb3t5fruf",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1254.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sleveless"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1254.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #76",
+  "description": "",
+  "image": "https://arweave.net/6069ojuhu3gmaxyzg1ghh",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/76.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Pijama"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/76.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

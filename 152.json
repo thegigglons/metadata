@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #152",
+  "description": "",
+  "image": "https://arweave.net/i5ye50cqek772je0h29ae",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/152.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/152.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

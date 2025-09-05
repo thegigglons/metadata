@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #859",
+  "description": "",
+  "image": "https://arweave.net/uu7c5hhm4nm4lcr37ub1jt",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/859.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Guitarrist"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/859.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

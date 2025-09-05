@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #428",
+  "description": "",
+  "image": "https://arweave.net/kg97y0sbt5iwr6tfor12l",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/428.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/428.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

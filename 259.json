@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #259",
+  "description": "",
+  "image": "https://arweave.net/47sf1saadr317xgd0doi1n",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/259.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hippie"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/259.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

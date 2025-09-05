@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #507",
+  "description": "",
+  "image": "https://arweave.net/57jlbcxu59xudgoitpeoem",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/507.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Pink"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/507.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

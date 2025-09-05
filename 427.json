@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #427",
+  "description": "",
+  "image": "https://arweave.net/h214g4z4dju647c8fcve6s",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/427.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Vulcano"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Laser Visor"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/427.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

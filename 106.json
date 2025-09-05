@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #106",
+  "description": "",
+  "image": "https://arweave.net/5dso8xy7o1t50s0i5emha5",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/106.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/106.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

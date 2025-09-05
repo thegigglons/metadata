@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1356",
+  "description": "",
+  "image": "https://arweave.net/j3b8zampz4kiv8pa4kvy2",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1356.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1356.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1064",
+  "description": "",
+  "image": "https://arweave.net/nury6116kufxoan6evyzw",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1064.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Snowland"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sleveless"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Laser Visor"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1064.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

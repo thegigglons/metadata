@@ -1,0 +1,22 @@
+{
+  "name": "Gigglon #1487",
+  "description": "",
+  "image": "https://arweave.net/kl5a5o5e3iig7hjhhpaxud",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1487.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Astro"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1487.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

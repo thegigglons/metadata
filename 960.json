@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #960",
+  "description": "",
+  "image": "https://arweave.net/n01dm0lk5uys7yy3j5x9c",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/960.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Guitarrist"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/960.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

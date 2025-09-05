@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #554",
+  "description": "",
+  "image": "https://arweave.net/x45bm7j91l7ejfb47w2d9",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/554.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/554.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

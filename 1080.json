@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1080",
+  "description": "",
+  "image": "https://arweave.net/s6cew93kofgoq3zfildab",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1080.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Temple"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Mint"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "King"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Crown"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1080.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

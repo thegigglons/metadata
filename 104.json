@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #104",
+  "description": "",
+  "image": "https://arweave.net/uouwhy6raua4gkes0pmm3g",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/104.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Party"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Explorer Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/104.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

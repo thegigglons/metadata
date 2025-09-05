@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #222",
+  "description": "",
+  "image": "https://arweave.net/51w9zhqofb7t73c3t5tocq",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/222.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Mint"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/222.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

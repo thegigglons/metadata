@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1033",
+  "description": "",
+  "image": "https://arweave.net/tetkq9f8j1n9hn7766onof",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1033.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Skull"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1033.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

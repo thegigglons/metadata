@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #159",
+  "description": "",
+  "image": "https://arweave.net/t7d1zuq8xfi0kge69zvg6k",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/159.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Vulcano"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/159.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

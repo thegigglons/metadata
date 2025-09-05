@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #219",
+  "description": "",
+  "image": "https://arweave.net/tp4n3pmoi0gp6jep44k08",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/219.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Pink"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/219.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

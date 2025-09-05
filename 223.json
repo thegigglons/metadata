@@ -1,0 +1,18 @@
+{
+  "name": "Gigglon #223",
+  "description": "",
+  "image": "https://arweave.net/147yyt5xm5yf8t7mf04p49l",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/223.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/223.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

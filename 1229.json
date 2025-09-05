@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1229",
+  "description": "",
+  "image": "https://arweave.net/w2vvqhlsupk6ilsx6n1uf8",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1229.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1229.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

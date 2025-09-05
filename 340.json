@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #340",
+  "description": "",
+  "image": "https://arweave.net/wyl3qdljv48s5tixt4c5s9",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/340.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Mint"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/340.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

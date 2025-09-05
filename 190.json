@@ -1,0 +1,22 @@
+{
+  "name": "Gigglon #190",
+  "description": "",
+  "image": "https://arweave.net/03zfjdrv3c3duxfvyo045x",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/190.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Astro"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/190.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1300",
+  "description": "",
+  "image": "https://arweave.net/znbrqy1vqkb2wwqz82wcar",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1300.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1300.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

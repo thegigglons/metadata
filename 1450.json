@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1450",
+  "description": "",
+  "image": "https://arweave.net/n9moajrgq2hp4qtg6af0dr",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1450.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Guitarrist"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1450.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

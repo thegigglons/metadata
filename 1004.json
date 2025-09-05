@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1004",
+  "description": "",
+  "image": "https://arweave.net/bnyrczvpas82ro9241cmbw",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1004.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Vulcano"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Explorer Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1004.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

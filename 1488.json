@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1488",
+  "description": "",
+  "image": "https://arweave.net/c1u17p3ekcdkvxb0e5ibc",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1488.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1488.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

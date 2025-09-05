@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #261",
+  "description": "",
+  "image": "https://arweave.net/32ldx3citsfu9k0j5zdx",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/261.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/261.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

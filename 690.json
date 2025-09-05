@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #690",
+  "description": "",
+  "image": "https://arweave.net/xntj94xmxgpuuqjdeqhvc",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/690.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/690.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

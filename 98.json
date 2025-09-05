@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #98",
+  "description": "",
+  "image": "https://arweave.net/m1ktm1wp0j06soiflv7yqg",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/98.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hippie"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/98.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

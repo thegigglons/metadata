@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #679",
+  "description": "",
+  "image": "https://arweave.net/740fo9xiqasu1s13fc5pf",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/679.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chess"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/679.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}
