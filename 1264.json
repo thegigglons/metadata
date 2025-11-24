@@ -6,19 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Slime Blast"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Pijama"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Goo"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1264.vrm",

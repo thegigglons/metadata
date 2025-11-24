@@ -6,23 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Light Burst"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Mechanic"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Light"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/604.vrm",

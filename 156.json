@@ -6,23 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Jurassic Island"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Drippy"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Purple Dino"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/156.vrm",

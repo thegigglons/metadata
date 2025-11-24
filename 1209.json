@@ -6,23 +6,15 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Cosmos"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Shroom"
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Shanti"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1209.vrm",

@@ -6,23 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Field"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Sports"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Laser Visor"
+      "value": "Plant"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/389.vrm",

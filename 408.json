@@ -6,23 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Jurassic Island"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Pirate"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Yellow Dino"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/408.vrm",

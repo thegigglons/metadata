@@ -6,19 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Jurassic Island"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Casual Long"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Red Dino"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/97.vrm",

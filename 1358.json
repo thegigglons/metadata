@@ -6,19 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Town"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Translucid"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1358.vrm",

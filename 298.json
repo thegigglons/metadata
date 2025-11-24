@@ -6,19 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Ancient Tomb"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Sleveless"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Mummy"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/298.vrm",

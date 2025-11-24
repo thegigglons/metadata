@@ -6,19 +6,11 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Graveyard"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Sleveless"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Blue Zombie"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/504.vrm",

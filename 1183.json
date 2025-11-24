@@ -6,23 +6,15 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Hypnotic Waves"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Telepath"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cook"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Astral Isolator"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1183.vrm",

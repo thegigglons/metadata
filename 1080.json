@@ -1,8 +1,8 @@
 {
-  "name": "Gigglon #1080",
+  "name": "Gigglon #1081",
   "description": "",
-  "image": "https://arweave.net/s6cew93kofgoq3zfildab",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1080.png",
+  "image": "https://arweave.net/ltwlokfr5oyax72vchgm",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1081.png",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -21,6 +21,6 @@
       "value": "Crown"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1080.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1081.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

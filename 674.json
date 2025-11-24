@@ -6,23 +6,15 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Dungeon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Monster"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Axe Fiend"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/674.vrm",
