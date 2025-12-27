@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #10",
+  "description": "",
+  "image": "https://arweave.net/213vpgl4he9v3e4lr5jma",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/10.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Wizard"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/10.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}
