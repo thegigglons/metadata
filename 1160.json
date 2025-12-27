@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1160",
+  "description": "",
+  "image": "https://arweave.net/tt6ghj65dr35dkpzjwtrl",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1160.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Party"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1160.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #700",
+  "description": "",
+  "image": "https://arweave.net/xnwhypkbc54kuq03t3vbu",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/700.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Space Trooper"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/700.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

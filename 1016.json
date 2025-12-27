@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1016",
+  "description": "",
+  "image": "https://arweave.net/ruf02ifjqerl7rfzlg88zs",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1016.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Caveman"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1016.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

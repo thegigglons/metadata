@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #1422",
+  "description": "",
+  "image": "https://arweave.net/mx41ul4j6b8h94z03svncc",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1422.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sleveless"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1422.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

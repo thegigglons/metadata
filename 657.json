@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #657",
+  "description": "",
+  "image": "https://arweave.net/qchhte6qjju2xtkvu7znn",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/657.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Snowland"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Mechanic"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Laser Visor"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/657.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "Gigglon #915",
+  "description": "",
+  "image": "https://arweave.net/1fv33hr3i62jm9y4sdd8amm",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/915.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Graveyard"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Yellow Zombie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/915.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}
