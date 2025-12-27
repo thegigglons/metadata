@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #441",
+  "description": "",
+  "image": "https://arweave.net/0j6ntb1viyaprvzduc1ot9j",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/441.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Laboratory"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Space Trooper"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/441.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}
