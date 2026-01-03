@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1328",
+  "description": "",
+  "image": "https://arweave.net/kjug00w09s8s6aqb7ql7nb",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1328.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Forest"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Black"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1328.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

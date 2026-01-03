@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #346",
+  "description": "",
+  "image": "https://arweave.net/9ynitij0c1hjdt70ta1a6",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/346.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Beach"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hippie"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/346.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

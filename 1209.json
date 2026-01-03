@@ -1,0 +1,22 @@
+{
+  "name": "Gigglon #1209",
+  "description": "",
+  "image": "https://arweave.net/myyac1pkwkfew14op4y5t9",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1209.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Cosmos"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Shroom"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Shanti"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1209.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

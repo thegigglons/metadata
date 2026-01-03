@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #1258",
+  "description": "",
+  "image": "https://arweave.net/06bhu7vobn3bjg9ur54eacb",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1258.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Hanafuda"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Samurai"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Straw Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1258.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

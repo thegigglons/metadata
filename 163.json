@@ -1,0 +1,30 @@
+{
+  "name": "Gigglon #163",
+  "description": "",
+  "image": "https://arweave.net/v9qs4vu6wbfoccl0vldp3",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/163.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Swamp"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Chess"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Explorer Hat"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/163.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Gigglon #868",
+  "description": "",
+  "image": "https://arweave.net/9t5s9q7r4eaoa1ma0rukdp",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/868.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Snowland"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Black"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/868.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}

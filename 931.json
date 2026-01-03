@@ -1,0 +1,18 @@
+{
+  "name": "Gigglon #931",
+  "description": "",
+  "image": "https://arweave.net/2zg66dj162cij9ognbxays",
+  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/931.png",
+  "attributes": [
+    {
+      "trait_type": "Landscape",
+      "value": "Jurassic Island"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Pink Dino"
+    }
+  ],
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/931.vrm",
+  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+}
