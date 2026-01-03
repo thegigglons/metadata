@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #219",
   "description": "",
-  "image": "https://arweave.net/tp4n3pmoi0gp6jep44k08",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/219.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/219.png",
+  "external_url": "https://www.gigglons.com/nft/219",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/219.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

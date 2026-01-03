@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #1182",
   "description": "",
-  "image": "https://arweave.net/viu4o4lt62jnh2gqba3aa",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1182.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1182.png",
+  "external_url": "https://www.gigglons.com/nft/1182",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Beachwear"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1182.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

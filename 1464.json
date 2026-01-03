@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1464",
   "description": "",
-  "image": "https://arweave.net/a1epcyaky96agz5qhwqta",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1464.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1464.png",
+  "external_url": "https://www.gigglons.com/nft/1464",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Astro"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1464.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

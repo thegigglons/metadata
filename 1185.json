@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1185",
   "description": "",
-  "image": "https://arweave.net/zalvok8ttf77kg39qajqi",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1185.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1185.png",
+  "external_url": "https://www.gigglons.com/nft/1185",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,21 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Mechanic"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1185.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

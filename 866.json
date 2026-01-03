@@ -1,20 +1,16 @@
 {
   "name": "Gigglon #866",
   "description": "",
-  "image": "https://arweave.net/9phfsxflz2l791p0jzhvqb",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/866.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/866.png",
+  "external_url": "https://www.gigglons.com/nft/866",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
@@ -22,9 +18,9 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/866.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #452",
   "description": "",
-  "image": "https://arweave.net/bbk8i6hz82bcjvif0xm3jt",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/452.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/452.png",
+  "external_url": "https://www.gigglons.com/nft/452",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Pijama"
+      "value": "Sports"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/452.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

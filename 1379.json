@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #1379",
   "description": "",
-  "image": "https://arweave.net/3l7p2dv2m3sb6b2vaj92s",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1379.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1379.png",
+  "external_url": "https://www.gigglons.com/nft/1379",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Chess"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1379.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

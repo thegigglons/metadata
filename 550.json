@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #550",
   "description": "",
-  "image": "https://arweave.net/pzoh6j2y44n7g8tdl5z4v",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/550.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/550.png",
+  "external_url": "https://www.gigglons.com/nft/550",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Party"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/550.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

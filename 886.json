@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #886",
   "description": "",
-  "image": "https://arweave.net/jnw2advz37n1xt1d3ulq",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/886.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/886.png",
+  "external_url": "https://www.gigglons.com/nft/886",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Purple"
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Pijama"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/886.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/purple.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

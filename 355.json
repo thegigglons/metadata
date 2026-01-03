@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #355",
   "description": "",
-  "image": "https://arweave.net/q7azrc9rie7e822cf6oim5",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/355.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/355.png",
+  "external_url": "https://www.gigglons.com/nft/355",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Casual Short"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/355.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

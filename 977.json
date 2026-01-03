@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #977",
   "description": "",
-  "image": "https://arweave.net/xk4oila4ktmo5uxsgbo7z",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/977.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/977.png",
+  "external_url": "https://www.gigglons.com/nft/977",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cientist"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/977.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

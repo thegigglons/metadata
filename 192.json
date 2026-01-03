@@ -1,18 +1,30 @@
 {
   "name": "Gigglon #192",
   "description": "",
-  "image": "https://arweave.net/s1x32eeumpann6i40i0ks",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/192.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/192.png",
+  "external_url": "https://www.gigglons.com/nft/192",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Graveyard"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink Zombie"
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/192.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

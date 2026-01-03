@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #694",
   "description": "",
-  "image": "https://arweave.net/uq0ao7fo2mr6id7zxf2r",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/694.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/694.png",
+  "external_url": "https://www.gigglons.com/nft/694",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Party"
+      "value": "Sports"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Headphones"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/694.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

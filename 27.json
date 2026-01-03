@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #27",
   "description": "",
-  "image": "https://arweave.net/e3psf3tst0tz279w5cbwdr",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/27.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/27.png",
+  "external_url": "https://www.gigglons.com/nft/27",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Guitarrist"
+      "value": "Hoodie Mint"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/27.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

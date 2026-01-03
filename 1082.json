@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #1082",
   "description": "",
-  "image": "https://arweave.net/5ojdsj7dee45s5ruo7qrfk",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1082.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1082.png",
+  "external_url": "https://www.gigglons.com/nft/1082",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Super Hero"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Laser Visor"
+      "value": "Warrior Helmet"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1082.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

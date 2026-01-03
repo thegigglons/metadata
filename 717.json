@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #717",
   "description": "",
-  "image": "https://arweave.net/tzgtzcxsics5uqd1oyqsgl",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/717.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/717.png",
+  "external_url": "https://www.gigglons.com/nft/717",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Super Hero"
+      "value": "Guitarrist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/717.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

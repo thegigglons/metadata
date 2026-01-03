@@ -1,22 +1,30 @@
 {
   "name": "Gigglon #561",
   "description": "",
-  "image": "https://arweave.net/4a3qp92zv7hruiif8sueia",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/561.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/561.png",
+  "external_url": "https://www.gigglons.com/nft/561",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
+      "value": "Farmer"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/561.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

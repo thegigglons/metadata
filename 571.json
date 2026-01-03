@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #571",
   "description": "",
-  "image": "https://arweave.net/gre3mn1h2ivgs6381t5g3",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/571.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/571.png",
+  "external_url": "https://www.gigglons.com/nft/571",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Super Hero"
+      "value": "Guitarrist"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/571.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

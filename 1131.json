@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #1131",
   "description": "",
-  "image": "https://arweave.net/vez7f94vqkvlq08lb39b",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1131.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1131.png",
+  "external_url": "https://www.gigglons.com/nft/1131",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Guitarrist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1131.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

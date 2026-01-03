@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #964",
   "description": "",
-  "image": "https://arweave.net/w2ounvz02va7zthei0j6fs",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/964.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/964.png",
+  "external_url": "https://www.gigglons.com/nft/964",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
       "value": "Green"
     },
     {
-      "trait_type": "Outfit",
-      "value": "Pijama"
+      "trait_type": "Eye Accessory",
+      "value": "Headphones"
     },
     {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/964.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

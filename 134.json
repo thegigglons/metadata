@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #134",
   "description": "",
-  "image": "https://arweave.net/2f51vr0lvjzpjaizwqc8es",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/134.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/134.png",
+  "external_url": "https://www.gigglons.com/nft/134",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Laser Visor"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/134.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

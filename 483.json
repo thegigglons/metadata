@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #483",
   "description": "",
-  "image": "https://arweave.net/b0axmwy74qfow05x0k7e2",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/483.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/483.png",
+  "external_url": "https://www.gigglons.com/nft/483",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/483.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

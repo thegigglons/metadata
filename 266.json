@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #266",
   "description": "",
-  "image": "https://arweave.net/xbah9d3gb9arzg0bso6pw",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/266.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/266.png",
+  "external_url": "https://www.gigglons.com/nft/266",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cientist"
+      "value": "Guitarrist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/266.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

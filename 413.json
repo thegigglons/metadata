@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #413",
   "description": "",
-  "image": "https://arweave.net/jqd2eyi5mlazhi7jcxzxsm",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/413.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/413.png",
+  "external_url": "https://www.gigglons.com/nft/413",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Chess"
+      "value": "Mechanic"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Visionary Bucket Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/413.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

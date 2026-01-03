@@ -1,18 +1,30 @@
 {
   "name": "Gigglon #176",
   "description": "",
-  "image": "https://arweave.net/thxnk8vhldp0zn04dgb33qb",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/176.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/176.png",
+  "external_url": "https://www.gigglons.com/nft/176",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Jurassic Island"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green Dino"
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/176.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

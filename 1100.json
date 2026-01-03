@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1100",
   "description": "",
-  "image": "https://arweave.net/f19jgq0wsimp9qd0ga91hi",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1100.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1100.png",
+  "external_url": "https://www.gigglons.com/nft/1100",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,21 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Party"
+      "value": "Pijama"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1100.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

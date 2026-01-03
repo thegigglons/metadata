@@ -1,22 +1,30 @@
 {
   "name": "Gigglon #1209",
   "description": "",
-  "image": "https://arweave.net/myyac1pkwkfew14op4y5t9",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1209.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1209.png",
+  "external_url": "https://www.gigglons.com/nft/1209",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cosmos"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Shroom"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Shanti"
+      "value": "Guitarrist"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1209.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

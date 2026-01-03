@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #1052",
   "description": "",
-  "image": "https://arweave.net/5ixn3llx6x7efqh18sgg5p",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1052.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1052.png",
+  "external_url": "https://www.gigglons.com/nft/1052",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Hoodie Mint"
     },
     {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1052.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

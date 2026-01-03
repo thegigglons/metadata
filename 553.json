@@ -1,20 +1,16 @@
 {
   "name": "Gigglon #553",
   "description": "",
-  "image": "https://arweave.net/khwjqc0iumsp87w8euzrt",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/553.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/553.png",
+  "external_url": "https://www.gigglons.com/nft/553",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
@@ -22,9 +18,13 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/553.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #181",
   "description": "",
-  "image": "https://arweave.net/a2s465jv57olalvin5l9z",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/181.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/181.png",
+  "external_url": "https://www.gigglons.com/nft/181",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Sleveless"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/181.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

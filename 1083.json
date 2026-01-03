@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1083",
   "description": "",
-  "image": "https://arweave.net/ccxsrz6e78ekzvew3ab5z",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1083.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1083.png",
+  "external_url": "https://www.gigglons.com/nft/1083",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
+      "value": "Drippy"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1083.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

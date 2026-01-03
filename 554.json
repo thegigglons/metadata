@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #554",
   "description": "",
-  "image": "https://arweave.net/x45bm7j91l7ejfb47w2d9",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/554.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/554.png",
+  "external_url": "https://www.gigglons.com/nft/554",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cook"
+      "value": "Hoodie Pink"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/554.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #1221",
   "description": "",
-  "image": "https://arweave.net/83wjnqc3trxvszi7w4obln",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1221.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1221.png",
+  "external_url": "https://www.gigglons.com/nft/1221",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Mechanic"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1221.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

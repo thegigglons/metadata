@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1447",
   "description": "",
-  "image": "https://arweave.net/78ohotf4u4opnxhxcep5ea",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1447.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1447.png",
+  "external_url": "https://www.gigglons.com/nft/1447",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Cascade"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Hoops"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Mint"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1447.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

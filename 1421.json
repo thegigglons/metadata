@@ -1,22 +1,26 @@
 {
   "name": "Gigglon #1421",
   "description": "",
-  "image": "https://arweave.net/083j16era7kuyrj0zsclo5j",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1421.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1421.png",
+  "external_url": "https://www.gigglons.com/nft/1421",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
+      "value": "Hippie"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1421.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

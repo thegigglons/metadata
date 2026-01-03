@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #55",
   "description": "",
-  "image": "https://arweave.net/lm7lubcz6qkpaf7n9bft5c",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/55.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/55.png",
+  "external_url": "https://www.gigglons.com/nft/55",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Sleveless"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Warrior Helmet"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/55.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

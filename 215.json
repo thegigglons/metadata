@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #215",
   "description": "",
-  "image": "https://arweave.net/awhzaujf3s776azsnnihol",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/215.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/215.png",
+  "external_url": "https://www.gigglons.com/nft/215",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Farmer"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/215.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

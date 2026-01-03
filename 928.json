@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #928",
   "description": "",
-  "image": "https://arweave.net/emec05pattjyty8sg3ugq",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/928.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/928.png",
+  "external_url": "https://www.gigglons.com/nft/928",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,17 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
+      "value": "Sleveless"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/928.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

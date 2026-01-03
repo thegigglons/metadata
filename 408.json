@@ -1,18 +1,26 @@
 {
   "name": "Gigglon #408",
   "description": "",
-  "image": "https://arweave.net/j6gy3ee4oad86yjy1te9y",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/408.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/408.png",
+  "external_url": "https://www.gigglons.com/nft/408",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Jurassic Island"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow Dino"
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Sports"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/408.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #93",
   "description": "",
-  "image": "https://arweave.net/4eaz95nhtgb7v470kncn0s",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/93.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/93.png",
+  "external_url": "https://www.gigglons.com/nft/93",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/93.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

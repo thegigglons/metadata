@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #489",
   "description": "",
-  "image": "https://arweave.net/qttaujvpn9efrbx8jn8j",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/489.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/489.png",
+  "external_url": "https://www.gigglons.com/nft/489",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Stetson Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/489.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

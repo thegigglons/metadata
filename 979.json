@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #979",
   "description": "",
-  "image": "https://arweave.net/x3d6ynjtbnaz06hooac4",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/979.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/979.png",
+  "external_url": "https://www.gigglons.com/nft/979",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Casual Short"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/979.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

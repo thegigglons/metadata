@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #991",
   "description": "",
-  "image": "https://arweave.net/0phz74psya6fl769tb1j8",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/991.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/991.png",
+  "external_url": "https://www.gigglons.com/nft/991",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Chess"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/991.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

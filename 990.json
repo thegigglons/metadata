@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #990",
   "description": "",
-  "image": "https://arweave.net/r4n4flzjxznzm2j6jci36",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/990.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/990.png",
+  "external_url": "https://www.gigglons.com/nft/990",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Studs"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Black"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/990.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

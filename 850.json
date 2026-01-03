@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #850",
   "description": "",
-  "image": "https://arweave.net/d7vml61olq1c0fa5b0xl9",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/850.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/850.png",
+  "external_url": "https://www.gigglons.com/nft/850",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Casual Short"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/850.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

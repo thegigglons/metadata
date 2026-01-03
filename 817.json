@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #817",
   "description": "",
-  "image": "https://arweave.net/qi7f8ry3q4o6zppzj1ir1l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/817.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/817.png",
+  "external_url": "https://www.gigglons.com/nft/817",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/817.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

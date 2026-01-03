@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #940",
   "description": "",
-  "image": "https://arweave.net/emvfxytzxjl69elak0xiv9",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/940.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/940.png",
+  "external_url": "https://www.gigglons.com/nft/940",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/940.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

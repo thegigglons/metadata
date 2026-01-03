@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #197",
   "description": "",
-  "image": "https://arweave.net/kypffz72m0rb7etf488ix",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/197.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/197.png",
+  "external_url": "https://www.gigglons.com/nft/197",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Hippie"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/197.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

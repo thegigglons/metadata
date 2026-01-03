@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #1220",
   "description": "",
-  "image": "https://arweave.net/k81e8j2at8e8jhb9mzi5pn",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1220.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1220.png",
+  "external_url": "https://www.gigglons.com/nft/1220",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Pirate Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1220.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

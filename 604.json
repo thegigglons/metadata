@@ -1,18 +1,26 @@
 {
   "name": "Gigglon #604",
   "description": "",
-  "image": "https://arweave.net/9be0te8tchtzsdgn1wx6s",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/604.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/604.png",
+  "external_url": "https://www.gigglons.com/nft/604",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Light Burst"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Light"
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Warrior Helmet"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/604.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

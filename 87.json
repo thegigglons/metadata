@@ -1,18 +1,30 @@
 {
   "name": "Gigglon #87",
   "description": "",
-  "image": "https://arweave.net/e3d683u1f77vb4rywa9xhl",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/87.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/87.png",
+  "external_url": "https://www.gigglons.com/nft/87",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Clouds"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Bubble"
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Space Trooper"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/87.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

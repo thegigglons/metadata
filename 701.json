@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #701",
   "description": "",
-  "image": "https://arweave.net/e9cz711fvu4sdaef0isog",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/701.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/701.png",
+  "external_url": "https://www.gigglons.com/nft/701",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Drippy"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Laser Visor"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/701.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

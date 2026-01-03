@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #1159",
   "description": "",
-  "image": "https://arweave.net/fs6uo9cl7jpu8bn9kkklg",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1159.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1159.png",
+  "external_url": "https://www.gigglons.com/nft/1159",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Studs"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Beachwear"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1159.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

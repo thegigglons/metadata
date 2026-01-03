@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #136",
   "description": "",
-  "image": "https://arweave.net/mtj79ewoy6pbq1fnlt03pi",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/136.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/136.png",
+  "external_url": "https://www.gigglons.com/nft/136",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Outfit",
-      "value": "Guitarrist"
+      "value": "Space Trooper"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Laser Visor"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/136.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/purple.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

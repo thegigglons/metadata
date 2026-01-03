@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #766",
   "description": "",
-  "image": "https://arweave.net/u41w2hkrlfgcqzoi5ywvd",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/766.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/766.png",
+  "external_url": "https://www.gigglons.com/nft/766",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Astro"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Hoops"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Purple"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Wizard"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/766.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

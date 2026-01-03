@@ -1,16 +1,16 @@
 {
   "name": "Gigglon #1382",
   "description": "",
-  "image": "https://arweave.net/p9leu35rpgi6ukx4z7evjn",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1382.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1382.png",
+  "external_url": "https://www.gigglons.com/nft/1382",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
@@ -18,9 +18,13 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1382.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

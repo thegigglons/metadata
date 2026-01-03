@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #745",
   "description": "",
-  "image": "https://arweave.net/0o5eux3z0yxnvzlqhuirzs",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/745.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/745.png",
+  "external_url": "https://www.gigglons.com/nft/745",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/745.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

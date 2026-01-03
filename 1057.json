@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1057",
   "description": "",
-  "image": "https://arweave.net/gkadresnkkcdryreqnsyx",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1057.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1057.png",
+  "external_url": "https://www.gigglons.com/nft/1057",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
@@ -18,9 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Party"
+      "value": "Pijama"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1057.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

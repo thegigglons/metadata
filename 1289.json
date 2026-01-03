@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1289",
   "description": "",
-  "image": "https://arweave.net/uhng3pxoako1awb7sy3q",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1289.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1289.png",
+  "external_url": "https://www.gigglons.com/nft/1289",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sleveless"
+      "value": "Drippy"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1289.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

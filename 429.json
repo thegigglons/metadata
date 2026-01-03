@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #429",
   "description": "",
-  "image": "https://arweave.net/hf90hzwkgf7rvjgd0scvtk",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/429.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/429.png",
+  "external_url": "https://www.gigglons.com/nft/429",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/429.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

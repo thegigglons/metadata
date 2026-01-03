@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #18",
   "description": "",
-  "image": "https://arweave.net/qu31cyi0745r8ahtxlpec",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/18.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/18.png",
+  "external_url": "https://www.gigglons.com/nft/18",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Hoodie Pink"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/18.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

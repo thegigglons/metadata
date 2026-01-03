@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #382",
   "description": "",
-  "image": "https://arweave.net/wl1vi3jwisoqdas1dk1is",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/382.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/382.png",
+  "external_url": "https://www.gigglons.com/nft/382",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Sports"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Pirate Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/382.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

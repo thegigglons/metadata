@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #906",
   "description": "",
-  "image": "https://arweave.net/bmk2r3d8kk57hal1538r35",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/906.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/906.png",
+  "external_url": "https://www.gigglons.com/nft/906",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
@@ -14,9 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/906.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

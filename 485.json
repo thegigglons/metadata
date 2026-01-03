@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #485",
   "description": "",
-  "image": "https://arweave.net/m2m3sta1yttk8eusztlv",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/485.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/485.png",
+  "external_url": "https://www.gigglons.com/nft/485",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Chess"
+      "value": "Casual Short"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Warrior Helmet"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/485.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

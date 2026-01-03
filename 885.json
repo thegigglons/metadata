@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #885",
   "description": "",
-  "image": "https://arweave.net/ogkj16x64ufq0j2hy4vcl",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/885.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/885.png",
+  "external_url": "https://www.gigglons.com/nft/885",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cientist"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Laser Visor"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/885.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

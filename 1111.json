@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1111",
   "description": "",
-  "image": "https://arweave.net/lkwea5bplyezeswtp9dac",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1111.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1111.png",
+  "external_url": "https://www.gigglons.com/nft/1111",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
@@ -18,9 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1111.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

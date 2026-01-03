@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #946",
   "description": "",
-  "image": "https://arweave.net/vxi5zx80rne38rcee3p8qm",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/946.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/946.png",
+  "external_url": "https://www.gigglons.com/nft/946",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Caveman"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/946.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

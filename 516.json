@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #516",
   "description": "",
-  "image": "https://arweave.net/rzvh1gnyxyc41r93tmc9xv",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/516.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/516.png",
+  "external_url": "https://www.gigglons.com/nft/516",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Pijama"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/516.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

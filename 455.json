@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #455",
   "description": "",
-  "image": "https://arweave.net/3oispi9qqrid9n30z1526e",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/455.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/455.png",
+  "external_url": "https://www.gigglons.com/nft/455",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Pirate"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Pirate Hat"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/455.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

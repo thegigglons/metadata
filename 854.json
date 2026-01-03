@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #854",
   "description": "",
-  "image": "https://arweave.net/pmczdmj5hsb8irh8tvxn94",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/854.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/854.png",
+  "external_url": "https://www.gigglons.com/nft/854",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
-      "value": "Mechanic"
+      "value": "Drippy"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/854.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

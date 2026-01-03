@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #739",
   "description": "",
-  "image": "https://arweave.net/hkl3w7vd81mbkrgqkmtlbk",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/739.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/739.png",
+  "external_url": "https://www.gigglons.com/nft/739",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Purple"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/739.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/purple.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

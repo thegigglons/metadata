@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #638",
   "description": "",
-  "image": "https://arweave.net/34rvr24w39frrjxwpczf4g",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/638.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/638.png",
+  "external_url": "https://www.gigglons.com/nft/638",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Hoodie Pink"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/638.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

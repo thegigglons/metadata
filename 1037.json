@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1037",
   "description": "",
-  "image": "https://arweave.net/09akbo0hn0zstjq0gkwsj9l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1037.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1037.png",
+  "external_url": "https://www.gigglons.com/nft/1037",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Caveman"
+      "value": "Drippy"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1037.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

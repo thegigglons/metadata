@@ -1,26 +1,18 @@
 {
   "name": "Gigglon #549",
   "description": "",
-  "image": "https://arweave.net/favil5t6i5vo1i93p5vpff",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/549.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/549.png",
+  "external_url": "https://www.gigglons.com/nft/549",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Mind"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Pink"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Ghost"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/549.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/ghost.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

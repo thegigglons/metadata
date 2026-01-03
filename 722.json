@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #722",
   "description": "",
-  "image": "https://arweave.net/xiutnanvx2ivm9hz2b9rgq",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/722.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/722.png",
+  "external_url": "https://www.gigglons.com/nft/722",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Drippy"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Laser Visor"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/722.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

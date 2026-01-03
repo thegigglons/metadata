@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #929",
   "description": "",
-  "image": "https://arweave.net/ay4obllxsjiif4fmd7ydp",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/929.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/929.png",
+  "external_url": "https://www.gigglons.com/nft/929",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Hoodie Mint"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/929.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

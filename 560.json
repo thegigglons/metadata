@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #560",
   "description": "",
-  "image": "https://arweave.net/yumkxr9x8x8u2fuf6flf8",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/560.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/560.png",
+  "external_url": "https://www.gigglons.com/nft/560",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,9 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Hoodie Mint"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/560.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

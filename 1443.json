@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #1443",
   "description": "",
-  "image": "https://arweave.net/82w0hvgfe6lshn8h3uzrup",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1443.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1443.png",
+  "external_url": "https://www.gigglons.com/nft/1443",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Desert"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Cap"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Studs"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Pijama"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1443.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

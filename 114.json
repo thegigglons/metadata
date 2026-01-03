@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #114",
   "description": "",
-  "image": "https://arweave.net/ybfl8jhwq7ipjnxtm898b",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/114.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/114.png",
+  "external_url": "https://www.gigglons.com/nft/114",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/114.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

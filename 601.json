@@ -1,20 +1,16 @@
 {
   "name": "Gigglon #601",
   "description": "",
-  "image": "https://arweave.net/mk0gf7siiydcilncz97xgv",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/601.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/601.png",
+  "external_url": "https://www.gigglons.com/nft/601",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
@@ -22,9 +18,9 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Warrior Helmet"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/601.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

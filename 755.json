@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #755",
   "description": "",
-  "image": "https://arweave.net/okylpszcebjl2gvqht16l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/755.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/755.png",
+  "external_url": "https://www.gigglons.com/nft/755",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Beachwear"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/755.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

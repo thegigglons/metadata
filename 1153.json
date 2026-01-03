@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1153",
   "description": "",
-  "image": "https://arweave.net/jsps9ov6v8iguzubiwh4",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1153.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1153.png",
+  "external_url": "https://www.gigglons.com/nft/1153",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Snowland"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Party"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Hoops"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Red"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Chess"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1153.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/purple.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

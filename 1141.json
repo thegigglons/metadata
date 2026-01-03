@@ -1,22 +1,26 @@
 {
   "name": "Gigglon #1141",
   "description": "",
-  "image": "https://arweave.net/m35fgli59icx1xzxft5yd",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1141.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1141.png",
+  "external_url": "https://www.gigglons.com/nft/1141",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1141.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

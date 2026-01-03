@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1413",
   "description": "",
-  "image": "https://arweave.net/b1822ydog67g91v59j08k",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1413.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1413.png",
+  "external_url": "https://www.gigglons.com/nft/1413",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Astro"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Laser Visor"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1413.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

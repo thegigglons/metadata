@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1380",
   "description": "",
-  "image": "https://arweave.net/4qt4ga1nyzq112mrpg9ts7",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1380.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1380.png",
+  "external_url": "https://www.gigglons.com/nft/1380",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Mechanic"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1380.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

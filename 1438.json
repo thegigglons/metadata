@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1438",
   "description": "",
-  "image": "https://arweave.net/8dqel51y9e9p7lc7zifw7",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1438.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1438.png",
+  "external_url": "https://www.gigglons.com/nft/1438",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Mechanic"
+      "value": "Beachwear"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1438.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

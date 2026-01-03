@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #69",
   "description": "",
-  "image": "https://arweave.net/p634nt035r2aodw11bpq5",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/69.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/69.png",
+  "external_url": "https://www.gigglons.com/nft/69",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Sleveless"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/69.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

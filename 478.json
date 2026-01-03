@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #478",
   "description": "",
-  "image": "https://arweave.net/sht125y6f5w3kytre1az",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/478.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/478.png",
+  "external_url": "https://www.gigglons.com/nft/478",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Laser Visor"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/478.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

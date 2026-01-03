@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #725",
   "description": "",
-  "image": "https://arweave.net/zxygkt0msgse55cg0hqh7",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/725.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/725.png",
+  "external_url": "https://www.gigglons.com/nft/725",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Beachwear"
+      "value": "Skull"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/725.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #735",
   "description": "",
-  "image": "https://arweave.net/vami7bb808pfmn7js88jm",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/735.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/735.png",
+  "external_url": "https://www.gigglons.com/nft/735",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Farmer"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Visionary Bucket Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/735.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

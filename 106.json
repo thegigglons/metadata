@@ -1,30 +1,22 @@
 {
   "name": "Gigglon #106",
   "description": "",
-  "image": "https://arweave.net/5dso8xy7o1t50s0i5emha5",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/106.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/106.png",
+  "external_url": "https://www.gigglons.com/nft/106",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cook"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Farmer"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/106.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,20 +1,16 @@
 {
   "name": "Gigglon #537",
   "description": "",
-  "image": "https://arweave.net/jbhrvhxcmt1bxnjtq2lq",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/537.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/537.png",
+  "external_url": "https://www.gigglons.com/nft/537",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
@@ -22,9 +18,9 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Pirate Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/537.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

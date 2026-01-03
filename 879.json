@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #879",
   "description": "",
-  "image": "https://arweave.net/qq7xfncaxtr1irrtc8wtr6",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/879.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/879.png",
+  "external_url": "https://www.gigglons.com/nft/879",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/879.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #689",
   "description": "",
-  "image": "https://arweave.net/vdrwhi4f66km2p947m50hm",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/689.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/689.png",
+  "external_url": "https://www.gigglons.com/nft/689",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,21 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cientist"
+      "value": "Astro"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/689.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

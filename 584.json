@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #584",
   "description": "",
-  "image": "https://arweave.net/qje694k8w4mvibzq4m8y0h",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/584.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/584.png",
+  "external_url": "https://www.gigglons.com/nft/584",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Hoodie Mint"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/584.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

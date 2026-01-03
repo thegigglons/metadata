@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1478",
   "description": "",
-  "image": "https://arweave.net/997aw9ewpb7hecrwi3d0je",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1478.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1478.png",
+  "external_url": "https://www.gigglons.com/nft/1478",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,21 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Mechanic"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1478.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

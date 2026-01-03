@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #679",
   "description": "",
-  "image": "https://arweave.net/740fo9xiqasu1s13fc5pf",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/679.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/679.png",
+  "external_url": "https://www.gigglons.com/nft/679",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Pink"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
     },
     {
       "trait_type": "Earring",
       "value": "Gold Hoops"
-    },
-    {
-      "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Chess"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/679.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

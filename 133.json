@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #133",
   "description": "",
-  "image": "https://arweave.net/828lvtek2z7lk9o641i86c",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/133.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/133.png",
+  "external_url": "https://www.gigglons.com/nft/133",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Beachwear"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/133.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

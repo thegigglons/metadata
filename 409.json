@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #409",
   "description": "",
-  "image": "https://arweave.net/ar3f5u9j5srr4tg4xset",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/409.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/409.png",
+  "external_url": "https://www.gigglons.com/nft/409",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Chess"
+      "value": "Wizard"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/409.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #921",
   "description": "",
-  "image": "https://arweave.net/5fog52tosto3m6z2sue7oe",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/921.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/921.png",
+  "external_url": "https://www.gigglons.com/nft/921",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sleveless"
+      "value": "Cook"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/921.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

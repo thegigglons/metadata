@@ -1,26 +1,22 @@
 {
   "name": "Gigglon #1423",
   "description": "",
-  "image": "https://arweave.net/k4vcft9gz67pcpniwc1jx",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1423.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1423.png",
+  "external_url": "https://www.gigglons.com/nft/1423",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Pijama"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Skull"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1423.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

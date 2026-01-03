@@ -1,18 +1,26 @@
 {
   "name": "Gigglon #1264",
   "description": "",
-  "image": "https://arweave.net/gtkz2pp3c9r24rq7d9cvpo",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1264.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1264.png",
+  "external_url": "https://www.gigglons.com/nft/1264",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Slime Blast"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Goo"
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Hoodie Black"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1264.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

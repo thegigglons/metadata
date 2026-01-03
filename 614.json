@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #614",
   "description": "",
-  "image": "https://arweave.net/c1el6bheptdp7no0lr9lc",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/614.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/614.png",
+  "external_url": "https://www.gigglons.com/nft/614",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sports"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Pirate Hat"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/614.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

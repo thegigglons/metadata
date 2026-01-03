@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #703",
   "description": "",
-  "image": "https://arweave.net/bguv8lx0h36ra783qzl9ve",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/703.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/703.png",
+  "external_url": "https://www.gigglons.com/nft/703",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Sports"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/703.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

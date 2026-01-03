@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1232",
   "description": "",
-  "image": "https://arweave.net/hw3e6yr9c8tczi5ifksykd",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1232.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1232.png",
+  "external_url": "https://www.gigglons.com/nft/1232",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1232.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

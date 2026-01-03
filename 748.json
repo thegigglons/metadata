@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #748",
   "description": "",
-  "image": "https://arweave.net/jfn0esp0burts1txo6qfwg",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/748.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/748.png",
+  "external_url": "https://www.gigglons.com/nft/748",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Sleveless"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/748.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #499",
   "description": "",
-  "image": "https://arweave.net/0yj8qf9dpw3cubmk4eeo0n",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/499.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/499.png",
+  "external_url": "https://www.gigglons.com/nft/499",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Cascade"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Pirate"
+      "value": "Hoodie Mint"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Wizard Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/499.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

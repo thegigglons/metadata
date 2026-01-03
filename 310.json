@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #310",
   "description": "",
-  "image": "https://arweave.net/w9prwmzkuhxulu6fu3zge",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/310.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/310.png",
+  "external_url": "https://www.gigglons.com/nft/310",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Shaman"
+      "value": "Sports"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wood Mask"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/310.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

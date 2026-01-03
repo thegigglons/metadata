@@ -1,22 +1,30 @@
 {
   "name": "Gigglon #923",
   "description": "",
-  "image": "https://arweave.net/qrynmdwwmjr2xdnu97x755",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/923.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/923.png",
+  "external_url": "https://www.gigglons.com/nft/923",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Mansion"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Vampire"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Dracula"
+      "value": "Sleveless"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/923.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

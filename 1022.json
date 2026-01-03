@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1022",
   "description": "",
-  "image": "https://arweave.net/3jyuew3ch6xxdxtcxkciy",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1022.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1022.png",
+  "external_url": "https://www.gigglons.com/nft/1022",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
@@ -18,9 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Chess"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1022.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

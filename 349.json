@@ -1,22 +1,26 @@
 {
   "name": "Gigglon #349",
   "description": "",
-  "image": "https://arweave.net/qxgsuvvk52svnlyv80t7pc",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/349.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/349.png",
+  "external_url": "https://www.gigglons.com/nft/349",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Astro"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Pirate Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/349.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

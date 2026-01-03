@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #562",
   "description": "",
-  "image": "https://arweave.net/k9pl7g9mh2k6hq7s2kj9hh",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/562.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/562.png",
+  "external_url": "https://www.gigglons.com/nft/562",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -10,17 +10,13 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Party"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Hoodie Mint"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/562.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

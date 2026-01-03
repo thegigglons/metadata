@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #829",
   "description": "",
-  "image": "https://arweave.net/j0zp8ldnwbmeicgky2ukkj",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/829.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/829.png",
+  "external_url": "https://www.gigglons.com/nft/829",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Moon"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
       "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/829.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

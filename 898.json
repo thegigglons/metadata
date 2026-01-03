@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #898",
   "description": "",
-  "image": "https://arweave.net/npy6x2cf4cikzqkw8qtbda",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/898.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/898.png",
+  "external_url": "https://www.gigglons.com/nft/898",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Astro"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/898.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

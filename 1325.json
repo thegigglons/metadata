@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1325",
   "description": "",
-  "image": "https://arweave.net/etgk9okluano1zq6lohed",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1325.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1325.png",
+  "external_url": "https://www.gigglons.com/nft/1325",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Mechanic"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1325.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

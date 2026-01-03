@@ -1,30 +1,22 @@
 {
   "name": "Gigglon #74",
   "description": "",
-  "image": "https://arweave.net/vw7p6oca03er725yo4eb2e",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/74.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/74.png",
+  "external_url": "https://www.gigglons.com/nft/74",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Snowland"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Purple"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Hoodie Mint"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/74.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/purple.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

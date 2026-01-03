@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #671",
   "description": "",
-  "image": "https://arweave.net/elsk4pmadbvsrxh4rh5pb8",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/671.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/671.png",
+  "external_url": "https://www.gigglons.com/nft/671",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Pijama"
+      "value": "Beachwear"
     },
     {
-      "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/671.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

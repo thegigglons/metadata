@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #836",
   "description": "",
-  "image": "https://arweave.net/wlijw3ruwul35becbi8sry",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/836.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/836.png",
+  "external_url": "https://www.gigglons.com/nft/836",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Pijama"
+      "value": "Sleveless"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/836.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

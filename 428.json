@@ -1,16 +1,16 @@
 {
   "name": "Gigglon #428",
   "description": "",
-  "image": "https://arweave.net/kg97y0sbt5iwr6tfor12l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/428.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/428.png",
+  "external_url": "https://www.gigglons.com/nft/428",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
@@ -18,9 +18,13 @@
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Backward Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/428.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

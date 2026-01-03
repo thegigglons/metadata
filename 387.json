@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #387",
   "description": "",
-  "image": "https://arweave.net/0d6z1a7emtirrb4kbd42v0l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/387.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/387.png",
+  "external_url": "https://www.gigglons.com/nft/387",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Pink"
+      "value": "Beachwear"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/387.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

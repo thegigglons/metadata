@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1409",
   "description": "",
-  "image": "https://arweave.net/kecyojsqe9sazzaery67",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1409.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1409.png",
+  "external_url": "https://www.gigglons.com/nft/1409",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
       "value": "Hoodie Black"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Stetson Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1409.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

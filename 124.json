@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #124",
   "description": "",
-  "image": "https://arweave.net/chdwpjd5q7vj4vq4gl727q",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/124.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/124.png",
+  "external_url": "https://www.gigglons.com/nft/124",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Sleveless"
+      "value": "Casual Short"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/124.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

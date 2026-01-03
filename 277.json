@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #277",
   "description": "",
-  "image": "https://arweave.net/bj6ve3wikp6quzb1nds41f",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/277.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/277.png",
+  "external_url": "https://www.gigglons.com/nft/277",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/277.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

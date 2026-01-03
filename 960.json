@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #960",
   "description": "",
-  "image": "https://arweave.net/n01dm0lk5uys7yy3j5x9c",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/960.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/960.png",
+  "external_url": "https://www.gigglons.com/nft/960",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -18,9 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Guitarrist"
+      "value": "Casual Long"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Pirate Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/960.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

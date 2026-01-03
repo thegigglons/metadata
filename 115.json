@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #115",
   "description": "",
-  "image": "https://arweave.net/4nl0fethz9rhiee4f5toa",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/115.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/115.png",
+  "external_url": "https://www.gigglons.com/nft/115",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Beach"
     },
     {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
-    },
-    {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Space Trooper"
+      "value": "Guitarrist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/115.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

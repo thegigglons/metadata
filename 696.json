@@ -1,22 +1,30 @@
 {
   "name": "Gigglon #696",
   "description": "",
-  "image": "https://arweave.net/cgqy0ad869vk7408m1x9u",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/696.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/696.png",
+  "external_url": "https://www.gigglons.com/nft/696",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Pijama"
+      "value": "Beachwear"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Wizard Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/696.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

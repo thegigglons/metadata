@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #112",
   "description": "",
-  "image": "https://arweave.net/3you6u3nqwf8edd4whlwyu",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/112.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/112.png",
+  "external_url": "https://www.gigglons.com/nft/112",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Mint"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/112.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

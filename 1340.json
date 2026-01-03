@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #1340",
   "description": "",
-  "image": "https://arweave.net/ctdrywvyw6fylwsn6n2omj",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1340.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1340.png",
+  "external_url": "https://www.gigglons.com/nft/1340",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Laboratory"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Red"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Cook"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Backward Visionary Cap"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1340.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

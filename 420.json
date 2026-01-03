@@ -1,22 +1,26 @@
 {
   "name": "Gigglon #420",
   "description": "",
-  "image": "https://arweave.net/3nftm5w3pymdoj1xn2i1eo",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/420.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/420.png",
+  "external_url": "https://www.gigglons.com/nft/420",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Mutation Room"
+      "value": "Underwater"
     },
-      {
+    {
       "trait_type": "Gigglon",
-      "value": "Ultra"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Ultra Vision"
+      "value": "Party"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Backward Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/420.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #773",
   "description": "",
-  "image": "https://arweave.net/2g468un0v6ufufbgfu9115",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/773.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/773.png",
+  "external_url": "https://www.gigglons.com/nft/773",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/773.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

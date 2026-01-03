@@ -1,18 +1,26 @@
 {
   "name": "Gigglon #223",
   "description": "",
-  "image": "https://arweave.net/147yyt5xm5yf8t7mf04p49l",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/223.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/223.png",
+  "external_url": "https://www.gigglons.com/nft/223",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Swamp"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Urban"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Diamond"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/223.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

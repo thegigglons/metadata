@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #1318",
   "description": "",
-  "image": "https://arweave.net/2t3yihj256la5nmo2wnsku",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1318.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1318.png",
+  "external_url": "https://www.gigglons.com/nft/1318",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Cientist"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
+      "value": "Stetson Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1318.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

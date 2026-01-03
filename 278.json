@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #278",
   "description": "",
-  "image": "https://arweave.net/0pqzr5j27w12iqetdhddbc",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/278.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/278.png",
+  "external_url": "https://www.gigglons.com/nft/278",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Beanie"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/278.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

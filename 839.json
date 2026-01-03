@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #839",
   "description": "",
-  "image": "https://arweave.net/v0sa46oczdjm5qabmte25k",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/839.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/839.png",
+  "external_url": "https://www.gigglons.com/nft/839",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Pijama"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/839.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

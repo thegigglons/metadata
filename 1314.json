@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #1314",
   "description": "",
-  "image": "https://arweave.net/rzhh306uynub39jxl5v78",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1314.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1314.png",
+  "external_url": "https://www.gigglons.com/nft/1314",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Laboratory"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Hippie"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
       "value": "Explorer Hat"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1314.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

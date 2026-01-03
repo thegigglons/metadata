@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #633",
   "description": "",
-  "image": "https://arweave.net/dy88q8f6ptvj7ae3vjiwx",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/633.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/633.png",
+  "external_url": "https://www.gigglons.com/nft/633",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Forest"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/633.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

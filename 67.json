@@ -1,26 +1,22 @@
 {
   "name": "Gigglon #67",
   "description": "",
-  "image": "https://arweave.net/6ehymtdjoth7szckdyv86q",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/67.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/67.png",
+  "external_url": "https://www.gigglons.com/nft/67",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
+      "value": "Desert"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Green"
     },
     {
       "trait_type": "Outfit",
-      "value": "Shaman"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Wood Mask"
+      "value": "Hoodie Pink"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/67.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

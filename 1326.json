@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1326",
   "description": "",
-  "image": "https://arweave.net/74vazt4v9b6wv8yvuavlo",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1326.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1326.png",
+  "external_url": "https://www.gigglons.com/nft/1326",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -14,9 +14,9 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
+      "value": "Pijama"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1326.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

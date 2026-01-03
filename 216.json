@@ -1,22 +1,26 @@
 {
   "name": "Gigglon #216",
   "description": "",
-  "image": "https://arweave.net/8yiqf4hbw5xwn4shbhdqx",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/216.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/216.png",
+  "external_url": "https://www.gigglons.com/nft/216",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Underwater"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Skull"
+      "value": "Casual Short"
+    },
+    {
+      "trait_type": "Eye Accessory",
+      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/216.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

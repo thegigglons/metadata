@@ -1,30 +1,26 @@
 {
   "name": "Gigglon #579",
   "description": "",
-  "image": "https://arweave.net/9036a30xl3d4s52kp7btjo",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/579.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/579.png",
+  "external_url": "https://www.gigglons.com/nft/579",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Purple"
+      "value": "Blue"
     },
     {
       "trait_type": "Outfit",
-      "value": "Farmer"
+      "value": "Shaman"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Laser Visor"
+      "value": "Wood Mask"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/579.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

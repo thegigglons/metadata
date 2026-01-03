@@ -1,30 +1,30 @@
 {
   "name": "Gigglon #566",
   "description": "",
-  "image": "https://arweave.net/2z1yrjej3a8gtv08ltedef",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/566.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/566.png",
+  "external_url": "https://www.gigglons.com/nft/566",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Snowland"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
+      "value": "Cascade"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
+      "value": "Pink"
     },
     {
       "trait_type": "Outfit",
-      "value": "Cientist"
+      "value": "Chess"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Pirate Hat"
+      "value": "Beanie"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/566.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

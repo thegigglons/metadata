@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1399",
   "description": "",
-  "image": "https://arweave.net/qsibwizvonlw1hdv7weuj",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1399.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1399.png",
+  "external_url": "https://www.gigglons.com/nft/1399",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Underwater"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Long"
+      "value": "Hoodie Black"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
+      "value": "Explorer Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1399.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

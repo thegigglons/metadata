@@ -1,16 +1,12 @@
 {
   "name": "Gigglon #1202",
   "description": "",
-  "image": "https://arweave.net/j2teqjkv7xkd3pi60e3tp",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1202.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1202.png",
+  "external_url": "https://www.gigglons.com/nft/1202",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Forest"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Hoops"
     },
     {
       "trait_type": "Gigglon",
@@ -18,13 +14,13 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Hoodie Black"
+      "value": "Hoodie Mint"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Beanie"
+      "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1202.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

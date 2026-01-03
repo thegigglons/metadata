@@ -1,26 +1,30 @@
 {
   "name": "Gigglon #864",
   "description": "",
-  "image": "https://arweave.net/4t5r0e9ffwlaukozeolc7k",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/864.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/864.png",
+  "external_url": "https://www.gigglons.com/nft/864",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Beach"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Shaman"
+      "value": "Casual Long"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wood Mask"
+      "value": "Visionary Cap"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Studs"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/864.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

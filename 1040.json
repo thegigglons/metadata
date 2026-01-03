@@ -1,12 +1,12 @@
 {
   "name": "Gigglon #1040",
   "description": "",
-  "image": "https://arweave.net/g3cf06wpppw40rzd4er3d",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1040.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1040.png",
+  "external_url": "https://www.gigglons.com/nft/1040",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Forest"
+      "value": "Vulcano"
     },
     {
       "trait_type": "Gigglon",
@@ -14,13 +14,17 @@
     },
     {
       "trait_type": "Outfit",
-      "value": "Astro"
+      "value": "Hippie"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
+      "value": "Warrior Helmet"
+    },
+    {
+      "trait_type": "Earring",
+      "value": "Gold Hoops"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1040.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

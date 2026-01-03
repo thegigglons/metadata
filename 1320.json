@@ -1,26 +1,26 @@
 {
   "name": "Gigglon #1320",
   "description": "",
-  "image": "https://arweave.net/sdrkbxc041xvfprwqb8y",
-  "external_url": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1320.png",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1320.png",
+  "external_url": "https://www.gigglons.com/nft/1320",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Moon"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
+      "value": "Red"
     },
     {
       "trait_type": "Outfit",
-      "value": "Casual Short"
+      "value": "Urban"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
+      "value": "Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/1320.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/red.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }
