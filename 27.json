@@ -1,3 +1,4 @@
+
 {
   "name": "Gigglon #27",
   "description": "",
@@ -6,21 +7,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Jurassic Island"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Mint"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Bucket Hat"
+      "value": "Blue Dino"  
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/bluedino.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

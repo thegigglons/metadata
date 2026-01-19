@@ -6,25 +6,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Beach"
+      "value": "Light Burst"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Pink"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Explorer Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Light"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/light.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

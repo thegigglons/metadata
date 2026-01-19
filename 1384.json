@@ -1,30 +1,18 @@
 {
-  "name": "Gigglon #1384",
+  "name": "Gigglon ##1384",
   "description": "",
-  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1384.png",
-  "external_url": "https://www.gigglons.com/nft/1384",
+  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/#1384.png",
+  "external_url": "https://www.gigglons.com/nft/#1384",
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
+      "value": "Town"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hippie"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Translucid"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/translucid.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

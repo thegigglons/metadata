@@ -6,21 +6,17 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Desert"
+      "value": "Hypnotic Waves"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Pink"
+      "value": "Telepath"
     },
     {
       "trait_type": "Outfit",
-      "value": "Urban"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Astral Isolator"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pink.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/telepath.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

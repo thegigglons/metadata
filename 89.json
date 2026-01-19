@@ -6,25 +6,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Cascade"
+      "value": "Ancient Tomb"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Hoodie Mint"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Visionary Cap"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
+      "value": "Mummy"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/mummy.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

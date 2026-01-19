@@ -6,25 +6,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
+      "value": "Field"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Yellow"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Casual Long"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Wizard Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Plant"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/yellow.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/plant.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

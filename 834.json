@@ -4,27 +4,19 @@
   "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/834.png",
   "external_url": "https://www.gigglons.com/nft/834",
   "attributes": [
-    {
+     {
       "trait_type": "Landscape",
-      "value": "Swamp"
+      "value": "Mind"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Party"
+      "value": "Ghost"
     },
     {
       "trait_type": "Eye Accessory",
-      "value": "Warrior Helmet"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Visionary Cap"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/ghostcap.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }
