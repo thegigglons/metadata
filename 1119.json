@@ -6,25 +6,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Swamp"
+      "value": "Dot Matrix World"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Casual Long"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Dot Matrix"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/dotmatrix.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }

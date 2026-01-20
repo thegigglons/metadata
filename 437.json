@@ -7,6 +7,10 @@
     {
       "trait_type": "Landscape",
       "value": "Tsunami"
+    },
+    {
+      "trait_type": "Gigglon",
+      "value": "Water"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/water.vrm",

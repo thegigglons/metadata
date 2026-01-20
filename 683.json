@@ -6,25 +6,13 @@
   "attributes": [
     {
       "trait_type": "Landscape",
-      "value": "Vulcano"
+      "value": "Jurassic Island"
     },
     {
       "trait_type": "Gigglon",
-      "value": "Blue"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Farmer"
-    },
-    {
-      "trait_type": "Eye Accessory",
-      "value": "Stetson Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Diamond"
+      "value": "Pink Dino"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/blue.vrm",
+  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/pinkdino.vrm",
   "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
 }
