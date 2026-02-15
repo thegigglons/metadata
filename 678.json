@@ -1,10 +1,10 @@
 {
   "name": "Gigglon #678",
-  "description": "",
-  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/678.png",
-  "external_url": "https://www.gigglons.com/nft/678",
+  "description": "1500 alien monsters! Stories, games and cosmic chaos!",
+  "image": "ar://_skBqhAVpvX-5QI7ZghRE9V6QoxmuubT2sdhHZxeKkc/678.png",
+  "external_url": "https://www.gigglons.com/collection/678",
   "attributes": [
-     {
+    {
       "trait_type": "Landscape",
       "value": "Mind"
     },
@@ -17,6 +17,6 @@
       "value": "Visionary Bucket Hat"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/ghostbucket.vrm",
-  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+  "vrm_url": "ar://J2Gf8ruLzRoAkXkqmUaKgvaF5SEbE9hIPMIKuRVemik/default.vrm",
+  "compiler": "Gh0stt_d3v"
 }

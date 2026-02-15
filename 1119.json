@@ -1,8 +1,8 @@
 {
   "name": "Gigglon #1119",
-  "description": "",
-  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/1119.png",
-  "external_url": "https://www.gigglons.com/nft/1119",
+  "description": "1500 alien monsters! Stories, games and cosmic chaos!",
+  "image": "ar://_skBqhAVpvX-5QI7ZghRE9V6QoxmuubT2sdhHZxeKkc/1119.png",
+  "external_url": "https://www.gigglons.com/collection/1119",
   "attributes": [
     {
       "trait_type": "Landscape",
@@ -13,6 +13,6 @@
       "value": "Dot Matrix"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/dotmatrix.vrm",
-  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+  "vrm_url": "ar://J2Gf8ruLzRoAkXkqmUaKgvaF5SEbE9hIPMIKuRVemik/default.vrm",
+  "compiler": "Gh0stt_d3v"
 }

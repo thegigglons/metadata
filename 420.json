@@ -1,14 +1,14 @@
 {
   "name": "Gigglon #420",
-  "description": "",
-  "image": "https://raw.githubusercontent.com/thegigglons/images/refs/heads/main/420.png",
-  "external_url": "https://www.gigglons.com/nft/420",
+  "description": "1500 alien monsters! Stories, games and cosmic chaos!",
+  "image": "ar://_skBqhAVpvX-5QI7ZghRE9V6QoxmuubT2sdhHZxeKkc/420.png",
+  "external_url": "https://www.gigglons.com/collection/420",
   "attributes": [
     {
       "trait_type": "Landscape",
       "value": "Mutation Room"
     },
-      {
+    {
       "trait_type": "Gigglon",
       "value": "Ultra"
     },
@@ -17,6 +17,6 @@
       "value": "Ultra Vision"
     }
   ],
-  "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/ultra.vrm",
-  "compiler": "0x628948584e57dce186aee0b611a12fac4556797f"
+  "vrm_url": "ar://J2Gf8ruLzRoAkXkqmUaKgvaF5SEbE9hIPMIKuRVemik/default.vrm",
+  "compiler": "Gh0stt_d3v"
 }
