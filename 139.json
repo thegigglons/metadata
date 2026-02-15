@@ -1,7 +1,7 @@
 {
   "name": "Gigglon #139",
   "description": "1500 alien monsters! Stories, games and cosmic chaos!",
-  "image": "ar://_skBqhAVpvX-5QI7ZghRE9V6QoxmuubT2sdhHZxeKkc/139.png",
+  "image": "https://arweave.net/_skBqhAVpvX-5QI7ZghRE9V6QoxmuubT2sdhHZxeKkc/139.png",
   "external_url": "https://www.gigglons.com/collection/139",
   "attributes": [
     {
@@ -25,6 +25,6 @@
       "value": "Diamond"
     }
   ],
-  "vrm_url": "ar://J2Gf8ruLzRoAkXkqmUaKgvaF5SEbE9hIPMIKuRVemik/default.vrm",
+  "vrm_url": "https://arweave.net/J2Gf8ruLzRoAkXkqmUaKgvaF5SEbE9hIPMIKuRVemik/default.vrm",
   "compiler": "Gh0stt_d3v"
 }
