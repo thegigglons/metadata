@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Gigglon",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Outfit",
@@ -19,10 +19,6 @@
     {
       "trait_type": "Eye Accessory",
       "value": "Pirate Hat"
-    },
-    {
-      "trait_type": "Earring",
-      "value": "Gold Studs"
     }
   ],
   "vrm_url": "https://raw.githubusercontent.com/thegigglons/vrms/refs/heads/main/green.vrm",
